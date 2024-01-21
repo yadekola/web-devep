@@ -1,0 +1,568 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header
+{
+    display: flex;
+    background: rgb(250, 246, 246);
+    justify-content: space-around;
+}
+
+.headerLogoContianer
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+a
+{
+    text-decoration: none;
+}
+.headerLinkContianer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.Btn1 button
+{
+    outline: none;
+    border: none;
+    background-color: rgb(245, 69, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.navImgContainer
+{
+    min-height: 70vh;
+}
+
+.navImgContainer
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.navContiner
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.dog3container img
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    top: -150px;
+    right: -120px;
+}
+
+.navcone
+{
+    margin: 20px;
+    position: relative;
+    bottom: -60px;
+}
+
+.navcone h2
+{
+    font-size: 50px;
+    margin: 20px;
+}
+
+.navcone p
+{
+    margin: 20px;
+    padding: 5px 10px;
+}
+
+.Btn2 button
+{
+    outline: none;
+    border: none;
+    background-color: rgb(245, 69, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.dog1container img
+{
+    position: relative;
+    right: -500px;
+    top: -30px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.femaleimgContainer img
+{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: -80px;
+}
+
+.dog2container img
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    right: 60px;
+    top: -140px;
+}
+
+.homeflyerContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textflyerContainer p
+{
+    width: 500px;
+    height: 60px;
+    text-align: center;
+}
+
+.serviceflyerIConContainer
+{
+    min-height: 65vh;
+}
+
+.serviceflyerContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.service2flyerContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.servicetextflyer1
+{
+    width: 400px;
+    height: 200px;
+}
+.servicetextflyer1 h2, p
+{
+    margin: 20px;
+}
+.circle1
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(8, 8, 189);
+    position: relative;
+    right: -30px;
+    top: -50px;
+}
+.circle5
+{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: white;
+    position: relative;
+    top: 12px;
+    right: -13px;
+}
+.circle2
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(255, 17, 0);
+    position: relative;
+    right: -30px;
+    top: -50px;
+}
+.circle3
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(255, 255, 23);
+    position: relative;
+    right: -30px;
+    top: -50px;
+}
+.circle4
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(77, 77, 201);
+    position: relative;
+    right: -30px;
+    top: -50px;
+}
+.servicetextflyer2
+{
+    width: 400px;
+    height: 200px;
+}
+.servicetextflyer2 h2, p
+{
+    margin: 20px;
+}
+.servicetextflyer3
+{
+    width: 400px;
+    height: 200px;
+}
+.servicetextflyer3 h2, p
+{
+    margin: 20px;
+}
+.servicetextflyer4
+{
+    width: 400px;
+    height: 200px;
+}
+.servicetextflyer4 h2, p
+{
+    margin: 20px;
+}
+
+.serviceChoose
+{
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: green;
+    border-radius: 20px;
+    border-top-right-radius: 200px;
+}
+.servicesimg img
+{
+    position: relative;
+    right: 30px;
+}
+.imgdog5 img
+{
+    position: relative;
+    right: 90px;
+    top: -40px;
+}
+.secriceText
+{
+    color: white;
+    width: 500px;
+    height: 350px;
+    position: relative;
+    top: -30px;
+}
+.secriceText h2
+{
+    font-size: 40px;
+    margin: 20px;
+}
+.secriceText p, li
+{
+    margin-left: 30px;
+}
+
+.bestheader
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+.bestsalesContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.boxContainer1
+{
+    width: 150px;
+    height: 300px;
+    background: green;
+    position: relative;
+    top: -85px;
+}
+.boxContainer2
+{
+    width: 150px;
+    height: 300px;
+    background: rgb(233, 231, 229);
+    position: relative;
+    top: -85px;
+}
+.boxContainer3
+{
+    width: 150px;
+    height: 300px;
+    background: rgba(255, 51, 0, 0.959);
+    position: relative;
+    top: -85px;
+}
+.bestsalers1 i
+{
+    position: relative;
+    right: 120px;
+}
+.bestsalers2 i
+{
+    position: relative;
+    right: 120px;
+}
+.bestsalers3 i
+{
+    position: relative;
+    right: 120px;
+}
+.bestsalers1 h4, h6
+{
+    text-align: center;
+    position: relative;
+    right: 150px;
+}
+.bestsalers2 h4, h6
+{
+    text-align: center;
+    position: relative;
+    right: 150px;
+}
+.bestsalers3 h4, h6
+{
+    text-align: center;
+    position: relative;
+    right: 150px;
+}
+
+.bestsalers1 img
+{
+    width: 150px;
+    height: 300px;
+    position: relative;
+    right: 140px;
+    top: -30px;
+}
+.bestsalers2 img
+{
+    width: 150px;
+    height: 300px;
+    position: relative;
+    right: 140px;
+    top: -30px;
+}
+.bestsalers3 img
+{
+    width: 150px;
+    height: 300px;
+    position: relative;
+    right: 140px;
+    top: -30px;
+}
+.Btn3 button
+{
+    outline: none;
+    border: none;
+    background-color: rgb(245, 69, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+    position: relative;
+    top: -70px;
+    right: -550px;
+}
+
+.petcareContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.petcare
+{
+    padding: 10px 20px;
+    width: 600px;
+    height: 400px;
+    position: relative;
+    right: -30px;
+}
+.petcare h2
+{
+    margin: 10px;
+}
+.petcare span
+{
+    margin: 10px;
+}
+.petcare li
+{
+    margin-top: 10px;
+    position: relative;
+    right: 20px;
+}
+.Btn4 button
+{
+    outline: none;
+    border: none;
+    background-color: rgb(245, 69, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.petBox
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background: white;
+    position: relative;
+    top: 80px;
+    right: -120px;
+}
+.petBox h2
+{
+    position: relative;
+    right: -30px;
+    top: -18px;
+}
+.ciralecon1
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(36, 36, 204);
+    position: relative;
+    right: 29px;
+    top: 30px;
+}
+.ciralecon2
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(245, 69, 0);
+    position: relative;
+    right: 29px;
+    top: 30px;
+}
+.ciralecon3
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(255, 187, 0);
+    position: relative;
+    right: 29px;
+    top: 30px;
+}
+.ciralecon4
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(0, 68, 255);
+    position: relative;
+    right: 29px;
+    top: 30px;
+}
+.ciralecontainer
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+    position: relative;
+    top: 15px;
+    right: -15px;
+}
+.customersaboutContainer
+{
+    min-height: 120vh;
+}
+.customerabout
+{
+    height: 100px;
+    width: 300px;
+    position: relative;
+    right: -75px
+}
+
+.customeraboutfly
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.customercardContainer
+{
+    box-shadow: 100px;
+}
+.customercardContainer1 img
+{
+    width: 300px;
+    height: 300px;
+}
+.customercardContainer2
+{
+    position: relative;
+    top: 30px;
+}
+.customercardContainer2 img
+{
+    width: 300px;
+    height: 300px;
+}
+.customercardContainer3 img
+{
+    width: 300px;
+    height: 300px;
+}
+.cardContainer img
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;    
+}
+.cardContainer
+{
+    width: 300px;
+    height: 300px;
+}
+.staContainer
+{
+    width: 200px;
+    position: relative;
+    right: -70px;
+    top: -50px;
+}
+.cardTextContainer
+{
+    padding: 5px 10px;
+    position: relative;
+    top: -60px;
+}

@@ -1,0 +1,164 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body
+{
+    background: #f3f3f3;
+}
+
+header
+{
+    background: #ffffff;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    flex-wrap: wrap;
+}
+
+.calliconyk2 img
+{
+    width: 20px;
+    height: 20px;
+    display: flex;
+}
+header .header-health
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+/*.navhealthCenter
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+
+header .healthcontact
+{
+    justify-content: space-around;
+    display: flex;
+}
+header nav ul
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+herder nav ul li
+{
+    display: inline-block;
+    float: left;
+    list-style: none;
+    padding: 0 20px;
+}
+
+header nav ul li a
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #111;
+    transform: uppercas;
+}*/
+
+
+/*index-banner
+
+.index-banner
+{
+    min-height: 100vh;
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-image: url(docterleft2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+
+.vertical-center
+{
+    display: table-cell;
+    vertical-align: middle;    
+}
+
+.index-banner h2
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.index-banner h1
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 40px;
+    color: #fff;
+    text-align: left;
+    text-shadow: 2px 2px 8px #111;
+}
+
+.index-banner a
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    font-style: bold;
+    background: blue;
+    color: #fff;
+    text-shadow: 2px 2px 8px #111;
+    border-radius: 5px;
+    line-height: 80px;
+}
+
+.servicesHealthContainer
+{
+    min-height: 100vh;  
+}
+.serviceContainer h2
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.serviceImgContainer
+{
+    display: flex;
+}
+
+
+
+
+.serviceImgContainer img
+{
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.eyeimg img
+{
+    width: 200px;
+    height: 200px;
+}*/
